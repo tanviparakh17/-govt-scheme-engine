@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const API = "http://localhost:8000";
+const API = "https://govt-scheme-api-ml08.onrender.com";
 
 const OCCUPATIONS = [
   "student", "farmer", "labour", "entrepreneur", "self-employed",
